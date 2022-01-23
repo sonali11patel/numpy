@@ -44,6 +44,13 @@ Testing:
 NumPy requires `pytest` and `hypothesis`.  Tests can then be run after installation with:
 
     python -c 'import numpy; numpy.test()'
+    
+### @ Sonali patel
+Added Features
+    -Feature 1
+    -Feature 2
+Bugs Correction
+    -Bug no 3
 
 Code of Conduct
 ----------------------
